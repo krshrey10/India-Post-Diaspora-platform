@@ -24,8 +24,7 @@ This project is backed by a research paper focusing on:
 - Strengthening diaspora–MSME connections
 - Marketplace optimization strategies
 - Data-driven decision-making using analytics
-
-📄 "View Research Paper" (./docs/india-post-diaspora-platform-research.pdf)
+📄 "View Research Paper" [Research paper _Indian Diaspora.pdf](https://github.com/user-attachments/files/26092070/Research.paper._Indian.Diaspora.pdf)
 
 ---
 
